@@ -49,10 +49,15 @@ A imagem demonstra quem foi o colaborador mais produtivo no decorrer do tempo.
 📈 Próximos Passos (em desenvolvimento)
 
 •Integração dos dados com o Looker Studio
+
 •Criação de dashboards interativos
+
 •Ranking de produtividade
+
 •Comparação por período
+
 •Indicadores operacionais
+
 •Publicação do dashboard e atualização deste repositório
 ---
 Considerações Finais
