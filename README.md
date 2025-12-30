@@ -46,24 +46,23 @@ Exemplo:<img width="1066" height="609" alt="image" src="https://github.com/user-
 
 A imagem demonstra quem foi o colaborador mais produtivo no decorrer do tempo.
 ---
-📈 Próximos Passos (em desenvolvimento)
+Após o tratamento e normalização dos dados em SQL, foi criado um dashboard no Looker Studio com o objetivo de analisar a produtividade operacional de forma clara e objetiva.
 
-•Integração dos dados com o Looker Studio
+O que foi feito nesta etapa:
 
-•Criação de dashboards interativos
+Conexão do Looker Studio com o banco de dados SQLite
+Criação de KPIs principais, como:
+   - Produtividade total
+   - Colaborador com maior desempenho
 
-•Ranking de produtividade
+O dashboard foi estruturado com foco em clareza visual, hierarquia da informação e boas práticas de BI, permitindo uma leitura rápida tanto para análises operacionais quanto para visão executiva.
+O dashboard foi estruturado com foco em clareza visual, hierarquia da informação e boas práticas de BI, permitindo uma leitura rápida tanto para análises operacionais quanto para visão executiva.
+<img width="866" height="751" alt="image" src="https://github.com/user-attachments/assets/cf91b949-4b88-45fc-bf8d-fe21a25b65dc" />
 
-•Comparação por período
-
-•Indicadores operacionais
-
-•Publicação do dashboard e atualização deste repositório
 ---
 Considerações Finais
 
 Este projeto faz parte do meu portfólio de análise de dados, com foco em demonstrar domínio de SQL aplicado a cenários reais, organização de dados e visão analítica voltada à tomada de decisão.
 
-A etapa de visualização será adicionada em um próximo commit.
 
 
