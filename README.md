@@ -57,7 +57,8 @@ Criação de KPIs principais, como:
 
 O dashboard foi estruturado com foco em clareza visual, hierarquia da informação e boas práticas de BI, permitindo uma leitura rápida tanto para análises operacionais quanto para visão executiva.
 O dashboard foi estruturado com foco em clareza visual, hierarquia da informação e boas práticas de BI, permitindo uma leitura rápida tanto para análises operacionais quanto para visão executiva.
-<img width="866" height="751" alt="image" src="https://github.com/user-attachments/assets/cf91b949-4b88-45fc-bf8d-fe21a25b65dc" />
+<img width="864" height="751" alt="image" src="https://github.com/user-attachments/assets/a5b45285-421f-4ab5-8ed9-5ea045ef1862" />
+
 
 ---
 Considerações Finais
